@@ -1,0 +1,3 @@
+Case_ID,Date_Confirmed,Date_Onset,Date_Admitted,Age_Group,Gender,Occupation,Location,District,State,Status_Jan21,Final_Status,Date_Death,Exposure_Source
+WB-2026-001,2026-01-13,2025-12-28,2026-01-04,20-30,Female,Nurse,Barasat,North 24 Parganas,West Bengal,Critical (Ventilator),Deceased,2026-02-12,Hospital Setting (Nosocomial)
+WB-2026-002,2026-01-13,2025-12-29,2026-01-05,20-30,Male,Nurse,Barasat,North 24 Parganas,West Bengal,Improved,Recovered,,Hospital Setting (Nosocomial)

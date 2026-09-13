@@ -1,0 +1,5 @@
+case_id,outbreak,country,region,district,age_group,gender,occupation,date_onset,date_admitted,date_confirmed,date_death,exposure_source,final_status,onset_to_admission_days,admission_to_confirm_days,onset_to_confirm_days,onset_to_death_days,confirm_to_death_days,age_mid,died,onset_month,onset_year
+WB-2026-001,West Bengal 2026 (Barasat),India,West Bengal,North 24 Parganas,20-30,Female,Nurse,2025-12-28,2026-01-04,2026-01-13,2026-02-12,Hospital Setting (Nosocomial),Deceased,7,9,16,46.0,30.0,25.0,1,12,2025
+WB-2026-002,West Bengal 2026 (Barasat),India,West Bengal,North 24 Parganas,20-30,Male,Nurse,2025-12-29,2026-01-05,2026-01-13,,Hospital Setting (Nosocomial),Recovered,7,8,15,,,25.0,0,12,2025
+BD-2026-001,Bangladesh 2026 (Naogaon),Bangladesh,Rajshahi,Naogaon,40-50,Female,Not reported,2026-01-21,2026-01-28,2026-01-29,2026-01-28,Raw date palm sap,Deceased,7,1,8,7.0,-1.0,45.0,1,1,2026
+KL-2026-001,Kerala 2026 (Kozhikode),India,Kerala,Kozhikode,40-50,Male,Trader,2026-05-30,2026-06-10,2026-06-11,,Environmental (disused godown with fruit bats),Hospitalized,11,1,12,,,45.0,0,5,2026

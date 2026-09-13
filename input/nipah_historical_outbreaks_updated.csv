@@ -1,0 +1,32 @@
+year,location,country,cases,deaths,cfr_percent,source_url
+1998,Perak & Negeri Sembilan,Malaysia,265,105,39.6,https://www.who.int/news-room/fact-sheets/detail/nipah-virus
+1999,Singapore (abattoir workers),Singapore,11,1,9.1,https://www.who.int/news-room/fact-sheets/detail/nipah-virus
+2001,Meherpur,Bangladesh,13,9,69.2,https://pubmed.ncbi.nlm.nih.gov/17712961/
+2001,"Siliguri, West Bengal",India,66,45,68.2,https://pubmed.ncbi.nlm.nih.gov/16485474/
+2003,Naogaon,Bangladesh,12,8,66.7,https://pubmed.ncbi.nlm.nih.gov/17712961/
+2004,Faridpur,Bangladesh,65,50,76.9,https://pubmed.ncbi.nlm.nih.gov/17712961/
+2005,Tangail,Bangladesh,12,11,91.7,https://www.who.int/emergencies/disease-outbreak-news
+2007,Thakurgaon & Kushtia,Bangladesh,18,9,50.0,https://www.who.int/emergencies/disease-outbreak-news
+2007,"Nadia, West Bengal",India,5,5,100.0,https://pubmed.ncbi.nlm.nih.gov/22536767/
+2008,Manikganj & Rajbari,Bangladesh,10,9,90.0,https://pubmed.ncbi.nlm.nih.gov/22536767/
+2010,Faridpur & others,Bangladesh,18,16,88.9,https://www.cdc.gov/vhf/nipah/outbreaks/
+2011,Multiple districts,Bangladesh,43,38,88.4,https://www.cdc.gov/vhf/nipah/outbreaks/
+2012,Joypurhat & others,Bangladesh,17,12,70.6,https://www.who.int/emergencies/disease-outbreak-news
+2013,Multiple districts,Bangladesh,30,21,70.0,https://www.who.int/emergencies/disease-outbreak-news
+2014,Multiple districts,Bangladesh,18,9,50.0,https://www.who.int/emergencies/disease-outbreak-news
+2014,"Sultan Kudarat, Mindanao",Philippines,17,9,52.9,https://pubmed.ncbi.nlm.nih.gov/26890029/
+2015,Multiple districts,Bangladesh,15,11,73.3,https://www.who.int/emergencies/disease-outbreak-news
+2018,Kerala (Kozhikode),India,19,17,89.5,https://www.who.int/emergencies/disease-outbreak-news/item/2018-DON230
+2019,Multiple districts,Bangladesh,8,5,62.5,https://www.who.int/emergencies/disease-outbreak-news
+2019,Kerala (Kochi),India,1,0,0.0,https://www.who.int/emergencies/disease-outbreak-news/item/2019-DON173
+2021,Kerala (Kozhikode),India,1,1,100.0,https://www.who.int/emergencies/disease-outbreak-news/item/2021-DON343
+2022,Multiple districts,Bangladesh,3,2,66.7,https://www.who.int/emergencies/disease-outbreak-news
+2023,Multiple districts,Bangladesh,14,10,71.4,https://www.who.int/emergencies/disease-outbreak-news
+2023,Kerala (Kozhikode),India,6,2,33.3,https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON487
+2024,Dhaka Division,Bangladesh,5,5,100.0,https://www.who.int/emergencies/disease-outbreak-news
+2024,Kerala (Malappuram),India,2,2,100.0,https://www.who.int/emergencies/disease-outbreak-news
+2025,"Naogaon, Bhola, Rajbari, Nilphamari",Bangladesh,4,4,100.0,https://www.who.int/emergencies/disease-outbreak-news
+2025,"Kerala (Malappuram, Palakkad)",India,4,2,50.0,https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON553
+2026,"Naogaon, Rajshahi",Bangladesh,1,1,100.0,https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON595
+2026,"Barasat, West Bengal",India,2,1,50.0,https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON593
+2026,"Kozhikode, Kerala",India,1,0,0.0,https://www.who.int/emergencies/disease-outbreak-news

@@ -1,0 +1,18 @@
+outbreak,country,date,campaign_day,samples_collected,cum_samples,pct_cohort_cleared
+Kerala 2026 (Kozhikode),India,2026-06-11,1,14,14,13.461538461538462
+Kerala 2026 (Kozhikode),India,2026-06-12,2,11,25,24.03846153846154
+Kerala 2026 (Kozhikode),India,2026-06-13,3,13,38,36.53846153846153
+Kerala 2026 (Kozhikode),India,2026-06-14,4,10,48,46.15384615384615
+Kerala 2026 (Kozhikode),India,2026-06-15,5,8,56,53.84615384615385
+Kerala 2026 (Kozhikode),India,2026-06-16,6,15,71,68.26923076923077
+Kerala 2026 (Kozhikode),India,2026-06-17,7,11,82,78.84615384615384
+Kerala 2026 (Kozhikode),India,2026-06-18,8,7,89,85.57692307692307
+Kerala 2026 (Kozhikode),India,2026-06-19,9,7,96,92.3076923076923
+Kerala 2026 (Kozhikode),India,2026-06-20,10,8,104,100.0
+West Bengal 2026 (Barasat),India,2026-01-14,1,33,33,17.1875
+West Bengal 2026 (Barasat),India,2026-01-15,2,25,58,30.208333333333332
+West Bengal 2026 (Barasat),India,2026-01-16,3,23,81,42.1875
+West Bengal 2026 (Barasat),India,2026-01-17,4,25,106,55.208333333333336
+West Bengal 2026 (Barasat),India,2026-01-18,5,36,142,73.95833333333334
+West Bengal 2026 (Barasat),India,2026-01-19,6,26,168,87.5
+West Bengal 2026 (Barasat),India,2026-01-20,7,24,192,100.0

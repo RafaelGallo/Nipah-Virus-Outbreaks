@@ -1,0 +1,105 @@
+Contact_ID,Linked_Case_ID,Contact_Type,Risk_Category,Age,Gender,Date_Sample_Collected,Test_Result,District
+KL-C-001,KL-2026-001,Healthcare Worker,High Risk,74,Female,2026-06-19,Negative,Kozhikode
+KL-C-002,KL-2026-001,Family/Household,Low Risk,24,Female,2026-06-18,Negative,Kozhikode
+KL-C-003,KL-2026-001,Workplace,Low Risk,29,Female,2026-06-13,Negative,Kozhikode
+KL-C-004,KL-2026-001,Healthcare Worker,Low Risk,44,Male,2026-06-17,Negative,Kozhikode
+KL-C-005,KL-2026-001,Family/Household,Low Risk,70,Male,2026-06-18,Negative,Kozhikode
+KL-C-006,KL-2026-001,Workplace,Low Risk,27,Female,2026-06-11,Negative,Kozhikode
+KL-C-007,KL-2026-001,Healthcare Worker,Low Risk,70,Female,2026-06-14,Negative,Kozhikode
+KL-C-008,KL-2026-001,Workplace,Low Risk,29,Female,2026-06-14,Negative,Kozhikode
+KL-C-009,KL-2026-001,Community,Low Risk,14,Male,2026-06-18,Negative,Kozhikode
+KL-C-010,KL-2026-001,Community,Low Risk,68,Female,2026-06-17,Negative,Kozhikode
+KL-C-011,KL-2026-001,Healthcare Worker,Low Risk,57,Female,2026-06-17,Negative,Kozhikode
+KL-C-012,KL-2026-001,Family/Household,Very High Risk,72,Male,2026-06-16,Negative,Kozhikode
+KL-C-013,KL-2026-001,Healthcare Worker,Low Risk,5,Female,2026-06-14,Negative,Kozhikode
+KL-C-014,KL-2026-001,Workplace,High Risk,57,Male,2026-06-16,Negative,Kozhikode
+KL-C-015,KL-2026-001,Healthcare Worker,Low Risk,60,Female,2026-06-12,Negative,Kozhikode
+KL-C-016,KL-2026-001,Family/Household,Low Risk,74,Female,2026-06-15,Negative,Kozhikode
+KL-C-017,KL-2026-001,Community,Low Risk,15,Female,2026-06-13,Negative,Kozhikode
+KL-C-018,KL-2026-001,Family/Household,Low Risk,63,Female,2026-06-13,Negative,Kozhikode
+KL-C-019,KL-2026-001,Community,Very High Risk,40,Male,2026-06-16,Negative,Kozhikode
+KL-C-020,KL-2026-001,Workplace,Low Risk,5,Female,2026-06-15,Negative,Kozhikode
+KL-C-021,KL-2026-001,Healthcare Worker,Low Risk,21,Male,2026-06-14,Negative,Kozhikode
+KL-C-022,KL-2026-001,Healthcare Worker,Low Risk,56,Male,2026-06-20,Negative,Kozhikode
+KL-C-023,KL-2026-001,Healthcare Worker,High Risk,49,Male,2026-06-13,Negative,Kozhikode
+KL-C-024,KL-2026-001,Community,High Risk,25,Male,2026-06-16,Negative,Kozhikode
+KL-C-025,KL-2026-001,Healthcare Worker,Low Risk,22,Male,2026-06-11,Negative,Kozhikode
+KL-C-026,KL-2026-001,Workplace,Low Risk,15,Male,2026-06-11,Negative,Kozhikode
+KL-C-027,KL-2026-001,Healthcare Worker,High Risk,21,Male,2026-06-12,Negative,Kozhikode
+KL-C-028,KL-2026-001,Healthcare Worker,Low Risk,74,Female,2026-06-12,Negative,Kozhikode
+KL-C-029,KL-2026-001,Family/Household,Low Risk,69,Female,2026-06-11,Negative,Kozhikode
+KL-C-030,KL-2026-001,Community,Low Risk,36,Male,2026-06-17,Negative,Kozhikode
+KL-C-031,KL-2026-001,Workplace,Low Risk,13,Female,2026-06-16,Negative,Kozhikode
+KL-C-032,KL-2026-001,Community,Low Risk,5,Male,2026-06-11,Negative,Kozhikode
+KL-C-033,KL-2026-001,Family/Household,Low Risk,49,Female,2026-06-11,Negative,Kozhikode
+KL-C-034,KL-2026-001,Family/Household,High Risk,8,Male,2026-06-20,Negative,Kozhikode
+KL-C-035,KL-2026-001,Healthcare Worker,High Risk,27,Female,2026-06-12,Negative,Kozhikode
+KL-C-036,KL-2026-001,Family/Household,High Risk,33,Male,2026-06-16,Negative,Kozhikode
+KL-C-037,KL-2026-001,Community,Low Risk,57,Female,2026-06-15,Negative,Kozhikode
+KL-C-038,KL-2026-001,Family/Household,High Risk,40,Female,2026-06-15,Negative,Kozhikode
+KL-C-039,KL-2026-001,Healthcare Worker,High Risk,8,Female,2026-06-13,Negative,Kozhikode
+KL-C-040,KL-2026-001,Family/Household,High Risk,40,Male,2026-06-17,Negative,Kozhikode
+KL-C-041,KL-2026-001,Workplace,Low Risk,62,Female,2026-06-19,Negative,Kozhikode
+KL-C-042,KL-2026-001,Healthcare Worker,High Risk,9,Male,2026-06-18,Negative,Kozhikode
+KL-C-043,KL-2026-001,Healthcare Worker,Low Risk,68,Female,2026-06-16,Negative,Kozhikode
+KL-C-044,KL-2026-001,Healthcare Worker,Low Risk,36,Male,2026-06-15,Negative,Kozhikode
+KL-C-045,KL-2026-001,Healthcare Worker,Low Risk,53,Male,2026-06-14,Negative,Kozhikode
+KL-C-046,KL-2026-001,Healthcare Worker,Low Risk,66,Male,2026-06-13,Negative,Kozhikode
+KL-C-047,KL-2026-001,Community,Low Risk,17,Female,2026-06-19,Negative,Kozhikode
+KL-C-048,KL-2026-001,Community,High Risk,18,Male,2026-06-15,Negative,Kozhikode
+KL-C-049,KL-2026-001,Workplace,Low Risk,23,Male,2026-06-12,Negative,Kozhikode
+KL-C-050,KL-2026-001,Healthcare Worker,High Risk,45,Female,2026-06-13,Negative,Kozhikode
+KL-C-051,KL-2026-001,Healthcare Worker,Low Risk,73,Female,2026-06-12,Negative,Kozhikode
+KL-C-052,KL-2026-001,Workplace,Low Risk,47,Male,2026-06-14,Negative,Kozhikode
+KL-C-053,KL-2026-001,Healthcare Worker,Low Risk,35,Male,2026-06-16,Negative,Kozhikode
+KL-C-054,KL-2026-001,Family/Household,Low Risk,10,Female,2026-06-20,Negative,Kozhikode
+KL-C-055,KL-2026-001,Healthcare Worker,Low Risk,34,Female,2026-06-16,Negative,Kozhikode
+KL-C-056,KL-2026-001,Community,High Risk,24,Female,2026-06-17,Negative,Kozhikode
+KL-C-057,KL-2026-001,Workplace,High Risk,50,Male,2026-06-11,Negative,Kozhikode
+KL-C-058,KL-2026-001,Family/Household,High Risk,17,Male,2026-06-12,Negative,Kozhikode
+KL-C-059,KL-2026-001,Family/Household,Low Risk,16,Male,2026-06-17,Negative,Kozhikode
+KL-C-060,KL-2026-001,Community,Low Risk,15,Female,2026-06-17,Negative,Kozhikode
+KL-C-061,KL-2026-001,Community,Low Risk,20,Male,2026-06-13,Negative,Kozhikode
+KL-C-062,KL-2026-001,Community,High Risk,52,Female,2026-06-11,Negative,Kozhikode
+KL-C-063,KL-2026-001,Community,Low Risk,35,Female,2026-06-20,Negative,Kozhikode
+KL-C-064,KL-2026-001,Healthcare Worker,High Risk,72,Female,2026-06-20,Negative,Kozhikode
+KL-C-065,KL-2026-001,Workplace,Low Risk,11,Male,2026-06-14,Negative,Kozhikode
+KL-C-066,KL-2026-001,Community,Low Risk,53,Female,2026-06-18,Negative,Kozhikode
+KL-C-067,KL-2026-001,Healthcare Worker,High Risk,31,Female,2026-06-19,Negative,Kozhikode
+KL-C-068,KL-2026-001,Workplace,Low Risk,69,Female,2026-06-16,Negative,Kozhikode
+KL-C-069,KL-2026-001,Healthcare Worker,Low Risk,43,Male,2026-06-13,Negative,Kozhikode
+KL-C-070,KL-2026-001,Healthcare Worker,High Risk,73,Female,2026-06-19,Negative,Kozhikode
+KL-C-071,KL-2026-001,Family/Household,High Risk,54,Female,2026-06-15,Negative,Kozhikode
+KL-C-072,KL-2026-001,Family/Household,Low Risk,39,Female,2026-06-20,Negative,Kozhikode
+KL-C-073,KL-2026-001,Family/Household,Low Risk,25,Male,2026-06-20,Negative,Kozhikode
+KL-C-074,KL-2026-001,Family/Household,Low Risk,69,Male,2026-06-12,Negative,Kozhikode
+KL-C-075,KL-2026-001,Healthcare Worker,Low Risk,65,Male,2026-06-20,Negative,Kozhikode
+KL-C-076,KL-2026-001,Community,High Risk,17,Male,2026-06-12,Negative,Kozhikode
+KL-C-077,KL-2026-001,Healthcare Worker,High Risk,12,Female,2026-06-19,Negative,Kozhikode
+KL-C-078,KL-2026-001,Healthcare Worker,High Risk,26,Female,2026-06-15,Negative,Kozhikode
+KL-C-079,KL-2026-001,Community,High Risk,72,Male,2026-06-11,Negative,Kozhikode
+KL-C-080,KL-2026-001,Community,Low Risk,67,Male,2026-06-11,Negative,Kozhikode
+KL-C-081,KL-2026-001,Healthcare Worker,Low Risk,47,Male,2026-06-18,Negative,Kozhikode
+KL-C-082,KL-2026-001,Workplace,High Risk,57,Male,2026-06-12,Negative,Kozhikode
+KL-C-083,KL-2026-001,Community,Very High Risk,17,Male,2026-06-14,Negative,Kozhikode
+KL-C-084,KL-2026-001,Workplace,High Risk,22,Male,2026-06-11,Negative,Kozhikode
+KL-C-085,KL-2026-001,Healthcare Worker,Low Risk,42,Male,2026-06-19,Negative,Kozhikode
+KL-C-086,KL-2026-001,Healthcare Worker,Low Risk,9,Male,2026-06-12,Negative,Kozhikode
+KL-C-087,KL-2026-001,Healthcare Worker,Low Risk,14,Female,2026-06-17,Negative,Kozhikode
+KL-C-088,KL-2026-001,Community,High Risk,15,Female,2026-06-18,Negative,Kozhikode
+KL-C-089,KL-2026-001,Workplace,High Risk,58,Male,2026-06-13,Negative,Kozhikode
+KL-C-090,KL-2026-001,Healthcare Worker,Very High Risk,8,Male,2026-06-16,Negative,Kozhikode
+KL-C-091,KL-2026-001,Community,Low Risk,25,Female,2026-06-11,Negative,Kozhikode
+KL-C-092,KL-2026-001,Workplace,Low Risk,12,Male,2026-06-13,Negative,Kozhikode
+KL-C-093,KL-2026-001,Community,Very High Risk,37,Female,2026-06-17,Negative,Kozhikode
+KL-C-094,KL-2026-001,Healthcare Worker,High Risk,32,Female,2026-06-13,Negative,Kozhikode
+KL-C-095,KL-2026-001,Community,High Risk,22,Female,2026-06-14,Negative,Kozhikode
+KL-C-096,KL-2026-001,Workplace,Very High Risk,5,Female,2026-06-16,Negative,Kozhikode
+KL-C-097,KL-2026-001,Workplace,High Risk,6,Female,2026-06-13,Negative,Kozhikode
+KL-C-098,KL-2026-001,Community,Low Risk,50,Female,2026-06-11,Negative,Kozhikode
+KL-C-099,KL-2026-001,Workplace,Very High Risk,22,Male,2026-06-16,Negative,Kozhikode
+KL-C-100,KL-2026-001,Healthcare Worker,High Risk,68,Male,2026-06-16,Negative,Kozhikode
+KL-C-101,KL-2026-001,Workplace,Very High Risk,20,Female,2026-06-14,Negative,Kozhikode
+KL-C-102,KL-2026-001,Healthcare Worker,Low Risk,14,Male,2026-06-16,Negative,Kozhikode
+KL-C-103,KL-2026-001,Workplace,Low Risk,28,Male,2026-06-17,Negative,Kozhikode
+KL-C-104,KL-2026-001,Family/Household,High Risk,14,Male,2026-06-11,Negative,Kozhikode

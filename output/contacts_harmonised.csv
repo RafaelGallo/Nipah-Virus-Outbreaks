@@ -1,0 +1,332 @@
+contact_id,outbreak,country,district,linked_case_id,contact_type_raw,risk_category,age,gender,date_sample,test_result_raw,contact_type,age_band,is_positive,was_symptomatic
+C-001,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,37.0,Male,2026-01-16,Negative,Healthcare Worker,30-40,False,False
+C-002,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,32.0,Female,2026-01-15,Negative,Community,30-40,False,False
+C-003,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Family/Household,,9.0,Female,2026-01-15,Negative,Family/Household,0-10,False,False
+C-004,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,19.0,Female,2026-01-16,Negative,Co-patient (Nosocomial),10-20,False,False
+C-005,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,48.0,Male,2026-01-20,Negative,Healthcare Worker,40-50,False,False
+C-006,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,3.0,Female,2026-01-19,Negative,Healthcare Worker,0-10,False,False
+C-007,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,20.0,Female,2026-01-16,Negative,Healthcare Worker,20-30,False,False
+C-008,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,24.0,Female,2026-01-18,Negative,Community,20-30,False,False
+C-009,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,54.0,Female,2026-01-18,Negative,Co-patient (Nosocomial),50-60,False,False
+C-010,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Family/Household,,33.0,Male,2026-01-15,Negative,Family/Household,30-40,False,False
+C-011,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,24.0,Female,2026-01-17,Negative,Healthcare Worker,20-30,False,False
+C-012,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,75.0,Male,2026-01-19,Negative,Community,70-80,False,False
+C-013,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,72.0,Male,2026-01-15,Negative,Community,70-80,False,False
+C-014,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,36.0,Male,2026-01-17,Negative,Healthcare Worker,30-40,False,False
+C-015,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,38.0,Male,2026-01-17,Negative,Healthcare Worker,30-40,False,False
+C-016,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,25.0,Male,2026-01-18,Negative,Healthcare Worker,20-30,False,False
+C-017,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,18.0,Male,2026-01-20,Negative,Healthcare Worker,10-20,False,False
+C-018,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,66.0,Female,2026-01-14,Negative,Co-patient (Nosocomial),60-70,False,False
+C-019,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,54.0,Male,2026-01-20,Negative,Co-patient (Nosocomial),50-60,False,False
+C-020,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,35.0,Male,2026-01-14,Negative,Healthcare Worker,30-40,False,False
+C-021,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,61.0,Male,2026-01-16,Negative,Co-patient (Nosocomial),60-70,False,False
+C-022,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,41.0,Female,2026-01-18,Negative,Healthcare Worker,40-50,False,False
+C-023,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,33.0,Female,2026-01-17,Negative,Healthcare Worker,30-40,False,False
+C-024,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,68.0,Male,2026-01-19,Negative,Healthcare Worker,60-70,False,False
+C-025,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,33.0,Female,2026-01-14,Negative,Co-patient (Nosocomial),30-40,False,False
+C-026,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Family/Household,,14.0,Male,2026-01-20,Negative,Family/Household,10-20,False,False
+C-027,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,21.0,Male,2026-01-17,Negative,Healthcare Worker,20-30,False,False
+C-028,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,48.0,Female,2026-01-14,Negative,Co-patient (Nosocomial),40-50,False,False
+C-029,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,20.0,Male,2026-01-14,Negative,Co-patient (Nosocomial),20-30,False,False
+C-030,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,8.0,Female,2026-01-14,Negative,Healthcare Worker,0-10,False,False
+C-031,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,7.0,Female,2026-01-19,Negative,Co-patient (Nosocomial),0-10,False,False
+C-032,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,67.0,Male,2026-01-18,Negative,Healthcare Worker,60-70,False,False
+C-033,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,17.0,Male,2026-01-19,Negative,Healthcare Worker,10-20,False,False
+C-034,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,33.0,Female,2026-01-15,Negative,Community,30-40,False,False
+C-035,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,48.0,Male,2026-01-17,Negative,Community,40-50,False,False
+C-036,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,76.0,Male,2026-01-18,Negative,Community,70-80,False,False
+C-037,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,59.0,Male,2026-01-18,Negative,Healthcare Worker,50-60,False,False
+C-038,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,22.0,Female,2026-01-18,Negative,Healthcare Worker,20-30,False,False
+C-039,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,30.0,Female,2026-01-20,Negative,Co-patient (Nosocomial),30-40,False,False
+C-040,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,38.0,Male,2026-01-18,Negative,Co-patient (Nosocomial),30-40,False,False
+C-041,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,51.0,Female,2026-01-19,Negative,Healthcare Worker,50-60,False,False
+C-042,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,54.0,Female,2026-01-18,Negative,Co-patient (Nosocomial),50-60,False,False
+C-043,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,8.0,Female,2026-01-16,Negative,Healthcare Worker,0-10,False,False
+C-044,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Community,,27.0,Female,2026-01-17,Negative,Community,20-30,False,False
+C-045,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,27.0,Female,2026-01-18,Negative,Healthcare Worker,20-30,False,False
+C-046,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,21.0,Male,2026-01-17,Negative,Co-patient (Nosocomial),20-30,False,False
+C-047,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,30.0,Male,2026-01-16,Negative,Healthcare Worker,30-40,False,False
+C-048,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,28.0,Male,2026-01-16,Negative,Co-patient (Nosocomial),20-30,False,False
+C-049,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,64.0,Female,2026-01-17,Negative,Co-patient (Nosocomial),60-70,False,False
+C-050,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,69.0,Female,2026-01-14,Negative,Healthcare Worker,60-70,False,False
+C-051,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,61.0,Male,2026-01-15,Negative,Community,60-70,False,False
+C-052,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Family/Household,,48.0,Female,2026-01-20,Negative,Family/Household,40-50,False,False
+C-053,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Community,,19.0,Male,2026-01-14,Negative,Community,10-20,False,False
+C-054,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Community,,4.0,Male,2026-01-14,Negative,Community,0-10,False,False
+C-055,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,35.0,Male,2026-01-19,Negative,Co-patient (Nosocomial),30-40,False,False
+C-056,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,64.0,Female,2026-01-20,Negative,Community,60-70,False,False
+C-057,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,49.0,Female,2026-01-20,Negative,Healthcare Worker,40-50,False,False
+C-058,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,17.0,Male,2026-01-14,Negative,Healthcare Worker,10-20,False,False
+C-059,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,44.0,Male,2026-01-18,Negative,Healthcare Worker,40-50,False,False
+C-060,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,30.0,Male,2026-01-19,Negative,Healthcare Worker,30-40,False,False
+C-061,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,46.0,Male,2026-01-19,Negative,Healthcare Worker,40-50,False,False
+C-062,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,6.0,Female,2026-01-16,Negative,Healthcare Worker,0-10,False,False
+C-063,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,37.0,Female,2026-01-20,Negative,Community,30-40,False,False
+C-064,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,24.0,Male,2026-01-14,Negative,Healthcare Worker,20-30,False,False
+C-065,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,46.0,Male,2026-01-16,Negative,Healthcare Worker,40-50,False,False
+C-066,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,53.0,Female,2026-01-17,Negative,Co-patient (Nosocomial),50-60,False,False
+C-067,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,60.0,Female,2026-01-15,Negative,Healthcare Worker,60-70,False,False
+C-068,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,63.0,Male,2026-01-19,Negative,Community,60-70,False,False
+C-069,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,32.0,Male,2026-01-17,Negative,Healthcare Worker,30-40,False,False
+C-070,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,33.0,Male,2026-01-17,Negative,Community,30-40,False,False
+C-071,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Family/Household,,67.0,Female,2026-01-18,Negative,Family/Household,60-70,False,False
+C-072,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,18.0,Female,2026-01-15,Negative,Healthcare Worker,10-20,False,False
+C-073,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,25.0,Female,2026-01-17,Negative,Healthcare Worker,20-30,False,False
+C-074,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,54.0,Male,2026-01-17,Negative,Community,50-60,False,False
+C-075,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Family/Household,,58.0,Male,2026-01-15,Negative,Family/Household,50-60,False,False
+C-076,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Family/Household,,67.0,Female,2026-01-15,Negative,Family/Household,60-70,False,False
+C-077,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Family/Household,,46.0,Female,2026-01-17,Negative,Family/Household,40-50,False,False
+C-078,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,24.0,Male,2026-01-15,Negative,Healthcare Worker,20-30,False,False
+C-079,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,32.0,Female,2026-01-17,Negative,Healthcare Worker,30-40,False,False
+C-080,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,47.0,Female,2026-01-17,Negative,Healthcare Worker,40-50,False,False
+C-081,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,23.0,Male,2026-01-18,Negative,Community,20-30,False,False
+C-082,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,66.0,Female,2026-01-14,Negative,Co-patient (Nosocomial),60-70,False,False
+C-083,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,27.0,Male,2026-01-17,Negative,Healthcare Worker,20-30,False,False
+C-084,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,2.0,Male,2026-01-16,Negative,Healthcare Worker,0-10,False,False
+C-085,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,17.0,Male,2026-01-19,Negative,Healthcare Worker,10-20,False,False
+C-086,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,33.0,Male,2026-01-20,Negative,Healthcare Worker,30-40,False,False
+C-087,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Family/Household,,9.0,Male,2026-01-14,Negative,Family/Household,0-10,False,False
+C-088,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,43.0,Male,2026-01-14,Negative,Co-patient (Nosocomial),40-50,False,False
+C-089,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Community,,48.0,Male,2026-01-14,Negative,Community,40-50,False,False
+C-090,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,39.0,Female,2026-01-18,Negative,Co-patient (Nosocomial),30-40,False,False
+C-091,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,42.0,Male,2026-01-17,Negative,Healthcare Worker,40-50,False,False
+C-092,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Family/Household,,26.0,Male,2026-01-18,Negative,Family/Household,20-30,False,False
+C-093,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Family/Household,,50.0,Female,2026-01-17,Negative,Family/Household,50-60,False,False
+C-094,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,25.0,Female,2026-01-18,Negative,Co-patient (Nosocomial),20-30,False,False
+C-095,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Family/Household,,24.0,Female,2026-01-18,Negative,Family/Household,20-30,False,False
+C-096,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,13.0,Male,2026-01-19,Negative,Co-patient (Nosocomial),10-20,False,False
+C-097,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,60.0,Female,2026-01-16,Negative,Co-patient (Nosocomial),60-70,False,False
+C-098,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,7.0,Male,2026-01-18,Negative,Co-patient (Nosocomial),0-10,False,False
+C-099,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,57.0,Male,2026-01-19,Negative,Healthcare Worker,50-60,False,False
+C-100,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,36.0,Male,2026-01-15,Negative,Healthcare Worker,30-40,False,False
+C-101,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,45.0,Male,2026-01-16,Negative,Healthcare Worker,40-50,False,False
+C-102,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,20.0,Female,2026-01-18,Negative,Co-patient (Nosocomial),20-30,False,False
+C-103,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,65.0,Female,2026-01-20,Negative,Healthcare Worker,60-70,False,False
+C-104,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,8.0,Male,2026-01-14,Negative,Co-patient (Nosocomial),0-10,False,False
+C-105,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,16.0,Male,2026-01-15,Negative,Community,10-20,False,False
+C-106,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,14.0,Male,2026-01-15,Negative,Healthcare Worker,10-20,False,False
+C-107,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,76.0,Female,2026-01-19,Negative,Co-patient (Nosocomial),70-80,False,False
+C-108,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Family/Household,,15.0,Male,2026-01-15,Negative,Family/Household,10-20,False,False
+C-109,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,66.0,Male,2026-01-16,Negative,Healthcare Worker,60-70,False,False
+C-110,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,32.0,Female,2026-01-18,Negative,Healthcare Worker,30-40,False,False
+C-111,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,63.0,Female,2026-01-18,Negative,Healthcare Worker,60-70,False,False
+C-112,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,51.0,Male,2026-01-20,Negative,Healthcare Worker,50-60,False,False
+C-113,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Community,,25.0,Female,2026-01-14,Negative,Community,20-30,False,False
+C-114,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Community,,58.0,Female,2026-01-19,Negative,Community,50-60,False,False
+C-115,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,63.0,Male,2026-01-14,Negative,Co-patient (Nosocomial),60-70,False,False
+C-116,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,62.0,Female,2026-01-15,Negative,Community,60-70,False,False
+C-117,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Community,,22.0,Male,2026-01-20,Negative,Community,20-30,False,False
+C-118,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,58.0,Female,2026-01-14,Negative,Healthcare Worker,50-60,False,False
+C-119,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,58.0,Male,2026-01-16,Negative,Community,50-60,False,False
+C-120,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,49.0,Male,2026-01-18,Negative,Co-patient (Nosocomial),40-50,False,False
+C-121,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,52.0,Male,2026-01-15,Negative,Community,50-60,False,False
+C-122,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,42.0,Female,2026-01-20,Negative,Community,40-50,False,False
+C-123,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,70.0,Male,2026-01-14,Negative,Healthcare Worker,70-80,False,False
+C-124,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,15.0,Female,2026-01-19,Negative,Healthcare Worker,10-20,False,False
+C-125,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,54.0,Male,2026-01-16,Negative,Healthcare Worker,50-60,False,False
+C-126,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,60.0,Male,2026-01-16,Negative,Co-patient (Nosocomial),60-70,False,False
+C-127,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Community,,8.0,Female,2026-01-14,Negative,Community,0-10,False,False
+C-128,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,53.0,Male,2026-01-18,Negative,Community,50-60,False,False
+C-129,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,60.0,Male,2026-01-14,Negative,Healthcare Worker,60-70,False,False
+C-130,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,5.0,Female,2026-01-15,Negative,Co-patient (Nosocomial),0-10,False,False
+C-131,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,68.0,Male,2026-01-14,Negative,Co-patient (Nosocomial),60-70,False,False
+C-132,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,6.0,Male,2026-01-16,Negative,Healthcare Worker,0-10,False,False
+C-133,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,47.0,Male,2026-01-20,Negative,Healthcare Worker,40-50,False,False
+C-134,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,55.0,Male,2026-01-14,Negative,Healthcare Worker,50-60,False,False
+C-135,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,40.0,Female,2026-01-18,Negative,Community,40-50,False,False
+C-136,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,52.0,Female,2026-01-20,Negative,Healthcare Worker,50-60,False,False
+C-137,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,16.0,Male,2026-01-19,Negative,Co-patient (Nosocomial),10-20,False,False
+C-138,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Family/Household,,13.0,Female,2026-01-17,Negative,Family/Household,10-20,False,False
+C-139,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,30.0,Male,2026-01-14,Negative,Healthcare Worker,30-40,False,False
+C-140,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,19.0,Female,2026-01-18,Negative,Community,10-20,False,False
+C-141,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,17.0,Male,2026-01-20,Negative,Community,10-20,False,False
+C-142,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,63.0,Male,2026-01-18,Negative,Healthcare Worker,60-70,False,False
+C-143,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,19.0,Male,2026-01-19,Negative,Co-patient (Nosocomial),10-20,False,False
+C-144,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,58.0,Male,2026-01-16,Negative,Healthcare Worker,50-60,False,False
+C-145,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,55.0,Male,2026-01-18,Negative,Healthcare Worker,50-60,False,False
+C-146,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,62.0,Male,2026-01-20,Negative,Healthcare Worker,60-70,False,False
+C-147,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,23.0,Female,2026-01-18,Negative,Co-patient (Nosocomial),20-30,False,False
+C-148,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,9.0,Male,2026-01-18,Negative,Co-patient (Nosocomial),0-10,False,False
+C-149,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,12.0,Female,2026-01-18,Negative,Healthcare Worker,10-20,False,False
+C-150,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,1.0,Male,2026-01-15,Negative,Healthcare Worker,0-10,False,False
+C-151,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,58.0,Female,2026-01-15,Negative,Community,50-60,False,False
+C-152,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,1.0,Female,2026-01-16,Negative,Healthcare Worker,0-10,False,False
+C-153,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,34.0,Female,2026-01-14,Negative,Healthcare Worker,30-40,False,False
+C-154,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,48.0,Male,2026-01-18,Negative,Co-patient (Nosocomial),40-50,False,False
+C-155,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,1.0,Male,2026-01-19,Negative,Community,0-10,False,False
+C-156,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,16.0,Female,2026-01-14,Negative,Healthcare Worker,10-20,False,False
+C-157,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,61.0,Male,2026-01-19,Negative,Co-patient (Nosocomial),60-70,False,False
+C-158,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Family/Household,,64.0,Female,2026-01-14,Negative,Family/Household,60-70,False,False
+C-159,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,63.0,Male,2026-01-16,Negative,Healthcare Worker,60-70,False,False
+C-160,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Family/Household,,69.0,Female,2026-01-18,Negative,Family/Household,60-70,False,False
+C-161,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,22.0,Female,2026-01-18,Negative,Healthcare Worker,20-30,False,False
+C-162,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,67.0,Male,2026-01-17,Negative,Co-patient (Nosocomial),60-70,False,False
+C-163,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,76.0,Female,2026-01-19,Negative,Co-patient (Nosocomial),70-80,False,False
+C-164,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Patient,,26.0,Male,2026-01-14,Negative,Co-patient (Nosocomial),20-30,False,False
+C-165,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,16.0,Female,2026-01-14,Negative,Healthcare Worker,10-20,False,False
+C-166,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,51.0,Female,2026-01-15,Negative,Community,50-60,False,False
+C-167,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,57.0,Male,2026-01-17,Negative,Healthcare Worker,50-60,False,False
+C-168,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Colleague (Healthcare),,29.0,Male,2026-01-20,Negative,Healthcare Worker,20-30,False,False
+C-169,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,78.0,Male,2026-01-20,Negative,Healthcare Worker,70-80,False,False
+C-170,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,69.0,Female,2026-01-15,Negative,Co-patient (Nosocomial),60-70,False,False
+C-171,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,47.0,Male,2026-01-15,Negative,Co-patient (Nosocomial),40-50,False,False
+C-172,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,62.0,Female,2026-01-15,Negative,Healthcare Worker,60-70,False,False
+C-173,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,69.0,Female,2026-01-19,Negative,Co-patient (Nosocomial),60-70,False,False
+C-174,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,76.0,Male,2026-01-19,Negative,Healthcare Worker,70-80,False,False
+C-175,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,16.0,Male,2026-01-16,Negative,Co-patient (Nosocomial),10-20,False,False
+C-176,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,48.0,Female,2026-01-16,Negative,Healthcare Worker,40-50,False,False
+C-177,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,39.0,Female,2026-01-15,Negative,Co-patient (Nosocomial),30-40,False,False
+C-178,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,33.0,Male,2026-01-17,Negative,Healthcare Worker,30-40,False,False
+C-179,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,23.0,Male,2026-01-14,Negative,Community,20-30,False,False
+C-180,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,10.0,Male,2026-01-19,Negative,Healthcare Worker,10-20,False,False
+C-181,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,69.0,Male,2026-01-17,Negative,Healthcare Worker,60-70,False,False
+C-182,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,34.0,Male,2026-01-18,Negative,Healthcare Worker,30-40,False,False
+C-183,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Community,,52.0,Female,2026-01-19,Negative,Community,50-60,False,False
+C-184,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,10.0,Female,2026-01-19,Negative,Community,10-20,False,False
+C-185,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Colleague (Healthcare),,19.0,Female,2026-01-16,Negative,Healthcare Worker,10-20,False,False
+C-186,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Patient,,58.0,Female,2026-01-14,Negative,Co-patient (Nosocomial),50-60,False,False
+C-187,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Community,,1.0,Male,2026-01-14,Negative,Community,0-10,False,False
+C-188,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,69.0,Male,2026-01-20,Negative,Co-patient (Nosocomial),60-70,False,False
+C-189,West Bengal 2026 (Barasat),India,North 24 Parganas,Both,Patient,,4.0,Male,2026-01-20,Negative,Co-patient (Nosocomial),0-10,False,False
+C-190,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,16.0,Female,2026-01-20,Negative,Healthcare Worker,10-20,False,False
+C-191,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-002,Colleague (Healthcare),,24.0,Female,2026-01-20,Negative,Healthcare Worker,20-30,False,False
+C-192,West Bengal 2026 (Barasat),India,North 24 Parganas,WB-2026-001,Community,,2.0,Male,2026-01-18,Negative,Community,0-10,False,False
+KL-C-001,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,74.0,Female,2026-06-19,Negative,Healthcare Worker,70-80,False,False
+KL-C-002,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,Low Risk,24.0,Female,2026-06-18,Negative,Family/Household,20-30,False,False
+KL-C-003,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Low Risk,29.0,Female,2026-06-13,Negative,Workplace,20-30,False,False
+KL-C-004,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,44.0,Male,2026-06-17,Negative,Healthcare Worker,40-50,False,False
+KL-C-005,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,Low Risk,70.0,Male,2026-06-18,Negative,Family/Household,70-80,False,False
+KL-C-006,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Low Risk,27.0,Female,2026-06-11,Negative,Workplace,20-30,False,False
+KL-C-007,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,70.0,Female,2026-06-14,Negative,Healthcare Worker,70-80,False,False
+KL-C-008,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Low Risk,29.0,Female,2026-06-14,Negative,Workplace,20-30,False,False
+KL-C-009,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,14.0,Male,2026-06-18,Negative,Community,10-20,False,False
+KL-C-010,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,68.0,Female,2026-06-17,Negative,Community,60-70,False,False
+KL-C-011,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,57.0,Female,2026-06-17,Negative,Healthcare Worker,50-60,False,False
+KL-C-012,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,Very High Risk,72.0,Male,2026-06-16,Negative,Family/Household,70-80,False,False
+KL-C-013,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,5.0,Female,2026-06-14,Negative,Healthcare Worker,0-10,False,False
+KL-C-014,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,High Risk,57.0,Male,2026-06-16,Negative,Workplace,50-60,False,False
+KL-C-015,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,60.0,Female,2026-06-12,Negative,Healthcare Worker,60-70,False,False
+KL-C-016,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,Low Risk,74.0,Female,2026-06-15,Negative,Family/Household,70-80,False,False
+KL-C-017,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,15.0,Female,2026-06-13,Negative,Community,10-20,False,False
+KL-C-018,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,Low Risk,63.0,Female,2026-06-13,Negative,Family/Household,60-70,False,False
+KL-C-019,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Very High Risk,40.0,Male,2026-06-16,Negative,Community,40-50,False,False
+KL-C-020,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Low Risk,5.0,Female,2026-06-15,Negative,Workplace,0-10,False,False
+KL-C-021,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,21.0,Male,2026-06-14,Negative,Healthcare Worker,20-30,False,False
+KL-C-022,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,56.0,Male,2026-06-20,Negative,Healthcare Worker,50-60,False,False
+KL-C-023,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,49.0,Male,2026-06-13,Negative,Healthcare Worker,40-50,False,False
+KL-C-024,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,High Risk,25.0,Male,2026-06-16,Negative,Community,20-30,False,False
+KL-C-025,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,22.0,Male,2026-06-11,Negative,Healthcare Worker,20-30,False,False
+KL-C-026,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Low Risk,15.0,Male,2026-06-11,Negative,Workplace,10-20,False,False
+KL-C-027,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,21.0,Male,2026-06-12,Negative,Healthcare Worker,20-30,False,False
+KL-C-028,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,74.0,Female,2026-06-12,Negative,Healthcare Worker,70-80,False,False
+KL-C-029,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,Low Risk,69.0,Female,2026-06-11,Negative,Family/Household,60-70,False,False
+KL-C-030,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,36.0,Male,2026-06-17,Negative,Community,30-40,False,False
+KL-C-031,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Low Risk,13.0,Female,2026-06-16,Negative,Workplace,10-20,False,False
+KL-C-032,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,5.0,Male,2026-06-11,Negative,Community,0-10,False,False
+KL-C-033,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,Low Risk,49.0,Female,2026-06-11,Negative,Family/Household,40-50,False,False
+KL-C-034,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,High Risk,8.0,Male,2026-06-20,Negative,Family/Household,0-10,False,False
+KL-C-035,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,27.0,Female,2026-06-12,Negative,Healthcare Worker,20-30,False,False
+KL-C-036,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,High Risk,33.0,Male,2026-06-16,Negative,Family/Household,30-40,False,False
+KL-C-037,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,57.0,Female,2026-06-15,Negative,Community,50-60,False,False
+KL-C-038,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,High Risk,40.0,Female,2026-06-15,Negative,Family/Household,40-50,False,False
+KL-C-039,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,8.0,Female,2026-06-13,Negative,Healthcare Worker,0-10,False,False
+KL-C-040,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,High Risk,40.0,Male,2026-06-17,Negative,Family/Household,40-50,False,False
+KL-C-041,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Low Risk,62.0,Female,2026-06-19,Negative,Workplace,60-70,False,False
+KL-C-042,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,9.0,Male,2026-06-18,Negative,Healthcare Worker,0-10,False,False
+KL-C-043,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,68.0,Female,2026-06-16,Negative,Healthcare Worker,60-70,False,False
+KL-C-044,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,36.0,Male,2026-06-15,Negative,Healthcare Worker,30-40,False,False
+KL-C-045,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,53.0,Male,2026-06-14,Negative,Healthcare Worker,50-60,False,False
+KL-C-046,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,66.0,Male,2026-06-13,Negative,Healthcare Worker,60-70,False,False
+KL-C-047,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,17.0,Female,2026-06-19,Negative,Community,10-20,False,False
+KL-C-048,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,High Risk,18.0,Male,2026-06-15,Negative,Community,10-20,False,False
+KL-C-049,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Low Risk,23.0,Male,2026-06-12,Negative,Workplace,20-30,False,False
+KL-C-050,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,45.0,Female,2026-06-13,Negative,Healthcare Worker,40-50,False,False
+KL-C-051,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,73.0,Female,2026-06-12,Negative,Healthcare Worker,70-80,False,False
+KL-C-052,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Low Risk,47.0,Male,2026-06-14,Negative,Workplace,40-50,False,False
+KL-C-053,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,35.0,Male,2026-06-16,Negative,Healthcare Worker,30-40,False,False
+KL-C-054,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,Low Risk,10.0,Female,2026-06-20,Negative,Family/Household,10-20,False,False
+KL-C-055,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,34.0,Female,2026-06-16,Negative,Healthcare Worker,30-40,False,False
+KL-C-056,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,High Risk,24.0,Female,2026-06-17,Negative,Community,20-30,False,False
+KL-C-057,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,High Risk,50.0,Male,2026-06-11,Negative,Workplace,50-60,False,False
+KL-C-058,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,High Risk,17.0,Male,2026-06-12,Negative,Family/Household,10-20,False,False
+KL-C-059,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,Low Risk,16.0,Male,2026-06-17,Negative,Family/Household,10-20,False,False
+KL-C-060,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,15.0,Female,2026-06-17,Negative,Community,10-20,False,False
+KL-C-061,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,20.0,Male,2026-06-13,Negative,Community,20-30,False,False
+KL-C-062,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,High Risk,52.0,Female,2026-06-11,Negative,Community,50-60,False,False
+KL-C-063,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,35.0,Female,2026-06-20,Negative,Community,30-40,False,False
+KL-C-064,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,72.0,Female,2026-06-20,Negative,Healthcare Worker,70-80,False,False
+KL-C-065,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Low Risk,11.0,Male,2026-06-14,Negative,Workplace,10-20,False,False
+KL-C-066,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,53.0,Female,2026-06-18,Negative,Community,50-60,False,False
+KL-C-067,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,31.0,Female,2026-06-19,Negative,Healthcare Worker,30-40,False,False
+KL-C-068,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Low Risk,69.0,Female,2026-06-16,Negative,Workplace,60-70,False,False
+KL-C-069,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,43.0,Male,2026-06-13,Negative,Healthcare Worker,40-50,False,False
+KL-C-070,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,73.0,Female,2026-06-19,Negative,Healthcare Worker,70-80,False,False
+KL-C-071,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,High Risk,54.0,Female,2026-06-15,Negative,Family/Household,50-60,False,False
+KL-C-072,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,Low Risk,39.0,Female,2026-06-20,Negative,Family/Household,30-40,False,False
+KL-C-073,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,Low Risk,25.0,Male,2026-06-20,Negative,Family/Household,20-30,False,False
+KL-C-074,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,Low Risk,69.0,Male,2026-06-12,Negative,Family/Household,60-70,False,False
+KL-C-075,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,65.0,Male,2026-06-20,Negative,Healthcare Worker,60-70,False,False
+KL-C-076,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,High Risk,17.0,Male,2026-06-12,Negative,Community,10-20,False,False
+KL-C-077,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,12.0,Female,2026-06-19,Negative,Healthcare Worker,10-20,False,False
+KL-C-078,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,26.0,Female,2026-06-15,Negative,Healthcare Worker,20-30,False,False
+KL-C-079,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,High Risk,72.0,Male,2026-06-11,Negative,Community,70-80,False,False
+KL-C-080,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,67.0,Male,2026-06-11,Negative,Community,60-70,False,False
+KL-C-081,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,47.0,Male,2026-06-18,Negative,Healthcare Worker,40-50,False,False
+KL-C-082,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,High Risk,57.0,Male,2026-06-12,Negative,Workplace,50-60,False,False
+KL-C-083,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Very High Risk,17.0,Male,2026-06-14,Negative,Community,10-20,False,False
+KL-C-084,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,High Risk,22.0,Male,2026-06-11,Negative,Workplace,20-30,False,False
+KL-C-085,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,42.0,Male,2026-06-19,Negative,Healthcare Worker,40-50,False,False
+KL-C-086,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,9.0,Male,2026-06-12,Negative,Healthcare Worker,0-10,False,False
+KL-C-087,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,14.0,Female,2026-06-17,Negative,Healthcare Worker,10-20,False,False
+KL-C-088,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,High Risk,15.0,Female,2026-06-18,Negative,Community,10-20,False,False
+KL-C-089,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,High Risk,58.0,Male,2026-06-13,Negative,Workplace,50-60,False,False
+KL-C-090,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Very High Risk,8.0,Male,2026-06-16,Negative,Healthcare Worker,0-10,False,False
+KL-C-091,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,25.0,Female,2026-06-11,Negative,Community,20-30,False,False
+KL-C-092,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Low Risk,12.0,Male,2026-06-13,Negative,Workplace,10-20,False,False
+KL-C-093,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Very High Risk,37.0,Female,2026-06-17,Negative,Community,30-40,False,False
+KL-C-094,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,32.0,Female,2026-06-13,Negative,Healthcare Worker,30-40,False,False
+KL-C-095,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,High Risk,22.0,Female,2026-06-14,Negative,Community,20-30,False,False
+KL-C-096,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Very High Risk,5.0,Female,2026-06-16,Negative,Workplace,0-10,False,False
+KL-C-097,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,High Risk,6.0,Female,2026-06-13,Negative,Workplace,0-10,False,False
+KL-C-098,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Community,Low Risk,50.0,Female,2026-06-11,Negative,Community,50-60,False,False
+KL-C-099,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Very High Risk,22.0,Male,2026-06-16,Negative,Workplace,20-30,False,False
+KL-C-100,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,High Risk,68.0,Male,2026-06-16,Negative,Healthcare Worker,60-70,False,False
+KL-C-101,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Very High Risk,20.0,Female,2026-06-14,Negative,Workplace,20-30,False,False
+KL-C-102,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Healthcare Worker,Low Risk,14.0,Male,2026-06-16,Negative,Healthcare Worker,10-20,False,False
+KL-C-103,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Workplace,Low Risk,28.0,Male,2026-06-17,Negative,Workplace,20-30,False,False
+KL-C-104,Kerala 2026 (Kozhikode),India,Kozhikode,KL-2026-001,Family/Household,High Risk,14.0,Male,2026-06-11,Negative,Family/Household,10-20,False,False
+BD-C-001,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,25.0,Female,,Negative (Symptomatic),Community,20-30,False,True
+BD-C-002,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,25.0,Male,,Negative (Symptomatic),Community,20-30,False,True
+BD-C-003,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,25.0,Male,,Negative (Symptomatic),Community,20-30,False,True
+BD-C-004,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,35.0,Male,,Negative (Symptomatic),Community,30-40,False,True
+BD-C-005,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,65.0,Male,,Negative (Symptomatic),Community,60-70,False,True
+BD-C-006,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,25.0,Female,,Negative (Symptomatic),Community,20-30,False,True
+BD-C-007,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,45.0,Female,,Negative,Community,40-50,False,False
+BD-C-008,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,25.0,Female,,Negative,Community,20-30,False,False
+BD-C-009,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,15.0,Female,,Negative,Community,10-20,False,False
+BD-C-010,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,45.0,Male,,Negative,Community,40-50,False,False
+BD-C-011,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,45.0,Male,,Negative,Community,40-50,False,False
+BD-C-012,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,35.0,Male,,Negative,Community,30-40,False,False
+BD-C-013,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,55.0,Male,,Negative,Community,50-60,False,False
+BD-C-014,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,15.0,Male,,Negative,Community,10-20,False,False
+BD-C-015,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,25.0,Female,,Negative,Community,20-30,False,False
+BD-C-016,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,35.0,Female,,Negative,Community,30-40,False,False
+BD-C-017,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,45.0,Male,,Negative,Community,40-50,False,False
+BD-C-018,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,65.0,Male,,Negative,Community,60-70,False,False
+BD-C-019,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,55.0,Male,,Negative,Community,50-60,False,False
+BD-C-020,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,25.0,Male,,Negative,Community,20-30,False,False
+BD-C-021,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,25.0,Female,,Negative,Community,20-30,False,False
+BD-C-022,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,15.0,Female,,Negative,Community,10-20,False,False
+BD-C-023,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,25.0,Female,,Negative,Community,20-30,False,False
+BD-C-024,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,45.0,Male,,Negative,Community,40-50,False,False
+BD-C-025,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,35.0,Male,,Negative,Community,30-40,False,False
+BD-C-026,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,45.0,Female,,Negative,Community,40-50,False,False
+BD-C-027,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,55.0,Male,,Negative,Community,50-60,False,False
+BD-C-028,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,55.0,Female,,Negative,Community,50-60,False,False
+BD-C-029,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,45.0,Female,,Negative,Community,40-50,False,False
+BD-C-030,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,55.0,Female,,Negative,Community,50-60,False,False
+BD-C-031,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,35.0,Female,,Negative,Community,30-40,False,False
+BD-C-032,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,65.0,Female,,Negative,Community,60-70,False,False
+BD-C-033,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,25.0,Female,,Negative,Community,20-30,False,False
+BD-C-034,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,45.0,Female,,Negative,Community,40-50,False,False
+BD-C-035,Bangladesh 2026 (Naogaon),Bangladesh,Naogaon,BD-2026-001,Community,,55.0,Female,,Negative,Community,50-60,False,False

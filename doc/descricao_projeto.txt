@@ -1,0 +1,259 @@
+Nipah Virus Outbreaks 2025-2026 India & Bangladesh
+Confirmed cases, contact tracing, fatality data, ML models, LLM tools.
+
+Nipah Virus Outbreaks 2025-2026 India & Bangladesh
+
+Code
+
+Download
+
+About Dataset
+"### Context\nOn 26 January 2026, WHO reported two laboratory-confirmed cases
+of Nipah virus (NiV) infection in West Bengal, India. This dataset captures the details of these cases,
+the results of the extensive contact tracing (simulated based on the report's aggregate numbers), and historical
+data of Nipah outbreaks in the region for comparative analysis.\n\n### Content\nThis dataset contains 3 CSV files:\n\n####
+
+nipah_wb_2026_cases.csv\nDetails of the confirmed cases.\n* Case_ID: Unique identifier for the patient
+(e.g., WB-2026-001).\n* Date_Confirmed: The date the case was lab-confirmed (YYYY-MM-DD).\n* Date_Onset: Date when
+symptoms first appeared.\n* Date_Admitted: Date of hospital admission.\n* Age_Group: Age bracket of the patient
+(20-30).\n* Gender: Gender of the patient (Male/Female).\n* Occupation: Job role (Both were Nurses).\n* Location:
+City/Town of residence (Barasat).\n* District: Administrative district (North 24 Parganas).\n* State: State
+(West Bengal).\n* Status_Jan21: Clinical status as of Jan 21, 2026 (Critical/Improved).\n* Exposure_Source:
+Suspected source of infection.\n\n#### 2. nipah_wb_2026_contacts.csv\nData on the 190+ contacts traced and tested.\n* Contact_ID: Unique ID for the contact trace (e.g., C-001).\n* Linked_Case_ID: The confirmed case ID this person was in contact with.\n* Contact_Type: Type of exposure (Colleague, Patient, Family, Community).\n* Age: Age of the contact person.\n* Gender: Gender of the contact person.\n* Date_Sample_Collected: Date when the sample was taken for testing.\n* Test_Result: Result of the NiV test (All Negative).\n* District: District where contact tracing occurred.\n\n#### 3. nipah_historical_outbreaks.csv\nAggregated data of past Nipah outbreaks for comparison.\n* Year: Year of the outbreak.\n* Location: Specific location (City/District) of the outbreak.\n* Country: Country (India/Bangladesh).\n* Cases: Total number of confirmed cases.\n* Deaths: Total number of deaths.\n* CFR_Percent: Case Fatality Ratio (Percentage of deaths among cases).\n\n### Acknowledgements\nData derived from World Health Organization (WHO) Disease Outbreak News item 2026-DON593.\n\n### Inspiration\n* Analyze the efficiency of contact tracing.\n* Compare the 2026 outbreak's CFR with historical trends (Siliguri 2001, Kerala 2018).\n* Visualize the geographic spread and timeline.",
+
+Descrição base de dados
+
+nipah_bangladesh_2026.csv
+nipah_bangladesh_2026.csv(3.81 kB)
+
+13 of 13 columns
+
+About this file
+
+Suggest Edits
+"description": "### Bangladesh Rajshahi 2026 Outbreak\nCase record and contact tracing for the fatal NiV case in Naogaon District, Rajshahi Division.\n\n#### Columns:\n* Record_Type: Case or Contact.\n* Record_ID: Unique identifier.\n* Age_Group: Age bracket.\n* Gender: Male/Female.\n* District: Naogaon.\n* Division: Rajshahi.\n* Date_Onset / Date_Admitted / Date_Confirmed: Key dates.\n* Transmission_Source: e.g., date palm sap.\n* Test_Result: PCR/ELISA result.\n* Final_Status: Deceased/Negative.\n* Date_Death: Date of death (if applicable)."
+
+
+Record_Type
+Record_Type
+
+
+Record_ID
+Record_ID
+
+
+Age_Group
+Age_Group
+
+
+Gender
+Geneder
+
+
+District
+District
+
+
+Division
+Division
+
+
+Date_Onset
+Date_Onset
+
+
+Date_Admitted
+Date_Admitted
+
+
+Date_Confirmed
+Date_Confirmed
+
+
+Transmission_Source
+Transmission
+
+
+Test_Result
+
+Final_Status
+
+Date_Death
+
+nipah_historical_outbreaks.csv
+
+nipah_historical_outbreaks.csv(3.15 kB)
+
+7 of 7 columns
+
+About this file
+
+Suggest Edits
+Historical Outbreaks\nComparative data from past Nipah events in India/Bangladesh.\n\n#### Columns:\n* Year: Outbreak year.\n* Location: City/District.\n* Country: India/Bangladesh.\n* Cases: Total confirmed cases.\n* Deaths: Total deaths.\n* CFR_Percent: Case Fatality Ratio (%).
+
+year
+
+location
+
+country
+
+cases
+
+deaths
+
+cfr_percent
+
+source_url
+
+nipah_historical_outbreaks_updated.csv(3.15 kB)
+
+7 of 7 columns
+
+About this file
+
+Suggest Edits
+"description": "### Historical Outbreaks (2001–2026)\nComparative data from past Nipah events in India and Bangladesh.\n\n#### Columns:\n* year: Outbreak year.\n* location: City/District.\n* country: India/Bangladesh.\n* cases: Total confirmed cases.\n* deaths: Total deaths.\n* cfr_percent: Case Fatality Ratio (%).\n* source_url: WHO/CDC source link."
+
+
+year
+
+location
+
+country
+
+cases
+
+deaths
+
+cfr_percent
+
+source_url
+
+nipah_kerala_2026_cases.csv(323 B)
+
+14 of 14 columns
+
+About this file
+
+Suggest Edits
+Confirmed Case — Kerala (Kozhikode) June 2026\nSingle confirmed case: 43-year-old male trader from Ramanattukara, Kozhikode.\n\n#### Columns:\n* Case_ID: Unique identifier (KL-2026-001).\n* Date_Confirmed: Lab confirmation date (2026-06-11).\n* Date_Onset: Symptom onset date (2026-05-30).\n* Date_Admitted: Hospital admission date (2026-06-10).\n* Age: Patient age (43).\n* Gender: Male.\n* Occupation: Trader.\n* Location: Ramanattukara.\n* District: Kozhikode.\n* State: Kerala.\n* Exposure_Source: Environmental (disused godown with fruit bats).\n* Status_Jun28: Clinical status as of Jun 28 (Critical, Ventilator).\n* Final_Status: Current outcome (Hospitalized).\n* Date_Death: Empty (patient alive as of Jun 28).
+
+Case_ID
+Case_ID
+
+
+Date_Confirmed
+
+Date_Onset
+
+Date_Admitted
+
+Age
+
+Gender
+
+Occupation
+
+Location
+
+District
+
+State
+
+Exposure_Source
+
+Status_Jun28
+
+Final_Status
+
+Date_Death
+
+nipah_kerala_2026_contacts.csv(8.94 kB)
+
+9 of 9 columns
+
+About this file
+
+Suggest Edits
+Contact Tracing — Kerala (Kozhikode) June 2026\nSurveillance data for 104 contacts. All tested negative.\n\n#### Columns:\n* Contact_ID: Unique ID (KL-C-XXX).\n* Linked_Case_ID: Associated confirmed case (KL-2026-001).\n* Contact_Type: Type (Healthcare Worker, Family/Household, Community, Workplace).\n* Risk_Category: WHO risk stratification (Very High Risk, High Risk, Low Risk).\n* Age: Age of contact.\n* Gender: Gender of contact.\n* Date_Sample_Collected: Testing date.\n* Test_Result: NiV test result (Negative).\n* District: Kozhikode.
+
+Contact_ID
+
+Linked_Case_ID
+
+Contact_Type
+
+Risk_Category
+
+Age
+
+Gender
+
+Date_Sample_Collected
+
+Test_Result
+
+District
+
+nipah_wb_2026_cases.csv(480 B)
+
+14 of 14 columns
+
+About this file
+
+Suggest Edits
+Confirmed Cases Data\nDetails of the 2 confirmed cases reported in Jan 2026.\n\n#### Columns:\n* Case_ID: Unique identifier (e.g., WB-2026-001).\n* Date_Confirmed: Lab confirmation date.\n* Date_Onset: Symptom onset date.\n* Date_Admitted: Hospital admission date.\n* Age_Group: Age bracket (20-30).\n* Gender: Male/Female.\n* Occupation: Job role (Nurse).\n* Location: Residence (Barasat).\n* District: North 24 Parganas.\n* State: West Bengal.\n* Status_Jan21: Clinical status (Critical/Improved).\n* Exposure_Source: Investigated source.
+
+Case_ID
+
+Date_Confirmed
+
+Date_Onset
+
+Date_Admitted
+
+Age_Group
+
+Gender
+
+Occupation
+
+Location
+
+District
+
+State
+
+Status_Jan21
+
+Final_Status
+
+Date_Death
+
+Exposure_Source
+
+nipah_wb_2026_contacts.csv(15.34 kB)
+
+8 of 8 columns
+
+About this file
+
+Suggest Edits
+Historical Outbreaks\nComparative data from past Nipah events in India/Bangladesh.\n\n#### Columns:\n* Year: Outbreak year.\n* Location: City/District.\n* Country: India/Bangladesh.\n* Cases: Total confirmed cases.\n* Deaths: Total deaths.\n* CFR_Percent: Case Fatality Ratio (%).
+
+Contact_ID
+
+Linked_Case_ID
+
+Contact_Type
+
+Age
+
+Gender
+
+Date_Sample_Collected
+
+Test_Result
+
+District
+

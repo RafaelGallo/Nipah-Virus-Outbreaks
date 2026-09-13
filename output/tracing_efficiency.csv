@@ -1,0 +1,4 @@
+outbreak,country,confirmed_cases,deaths,contacts_traced,contacts_per_case,campaign_days,samples_per_day,first_sample,last_sample,secondary_positives,symptomatic_contacts
+Bangladesh 2026 (Naogaon),Bangladesh,1,1,35,35.0,,,,,0,6
+Kerala 2026 (Kozhikode),India,1,0,104,104.0,10.0,10.4,2026-06-11,2026-06-20,0,0
+West Bengal 2026 (Barasat),India,2,1,192,96.0,7.0,27.428571428571427,2026-01-14,2026-01-20,0,0

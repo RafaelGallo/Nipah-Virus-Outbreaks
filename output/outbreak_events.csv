@@ -1,0 +1,32 @@
+year,location,country,cases,deaths,cfr_percent,source_url,cfr_recomputed,is_focus_country,multi_district,cfr_delta
+1998,Perak & Negeri Sembilan,Malaysia,265,105,39.6,https://www.who.int/news-room/fact-sheets/detail/nipah-virus,39.62264150943396,False,False,0.02264150943396004
+1999,Singapore (abattoir workers),Singapore,11,1,9.1,https://www.who.int/news-room/fact-sheets/detail/nipah-virus,9.090909090909092,False,False,0.009090909090907928
+2001,Meherpur,Bangladesh,13,9,69.2,https://pubmed.ncbi.nlm.nih.gov/17712961/,69.23076923076923,True,False,0.030769230769223554
+2001,"Siliguri, West Bengal",India,66,45,68.2,https://pubmed.ncbi.nlm.nih.gov/16485474/,68.18181818181817,True,False,0.018181818181830067
+2003,Naogaon,Bangladesh,12,8,66.7,https://pubmed.ncbi.nlm.nih.gov/17712961/,66.66666666666666,True,False,0.03333333333334565
+2004,Faridpur,Bangladesh,65,50,76.9,https://pubmed.ncbi.nlm.nih.gov/17712961/,76.92307692307693,True,False,0.023076923076928324
+2005,Tangail,Bangladesh,12,11,91.7,https://www.who.int/emergencies/disease-outbreak-news,91.66666666666666,True,False,0.03333333333334565
+2007,Thakurgaon & Kushtia,Bangladesh,18,9,50.0,https://www.who.int/emergencies/disease-outbreak-news,50.0,True,False,0.0
+2007,"Nadia, West Bengal",India,5,5,100.0,https://pubmed.ncbi.nlm.nih.gov/22536767/,100.0,True,False,0.0
+2008,Manikganj & Rajbari,Bangladesh,10,9,90.0,https://pubmed.ncbi.nlm.nih.gov/22536767/,90.0,True,False,0.0
+2010,Faridpur & others,Bangladesh,18,16,88.9,https://www.cdc.gov/vhf/nipah/outbreaks/,88.88888888888889,True,False,0.011111111111119953
+2011,Multiple districts,Bangladesh,43,38,88.4,https://www.cdc.gov/vhf/nipah/outbreaks/,88.37209302325581,True,True,0.02790697674419107
+2012,Joypurhat & others,Bangladesh,17,12,70.6,https://www.who.int/emergencies/disease-outbreak-news,70.58823529411765,True,False,0.011764705882342241
+2013,Multiple districts,Bangladesh,30,21,70.0,https://www.who.int/emergencies/disease-outbreak-news,70.0,True,True,0.0
+2014,Multiple districts,Bangladesh,18,9,50.0,https://www.who.int/emergencies/disease-outbreak-news,50.0,True,True,0.0
+2014,"Sultan Kudarat, Mindanao",Philippines,17,9,52.9,https://pubmed.ncbi.nlm.nih.gov/26890029/,52.94117647058824,False,False,0.04117647058824048
+2015,Multiple districts,Bangladesh,15,11,73.3,https://www.who.int/emergencies/disease-outbreak-news,73.33333333333333,True,True,0.03333333333333144
+2018,Kerala (Kozhikode),India,19,17,89.5,https://www.who.int/emergencies/disease-outbreak-news/item/2018-DON230,89.47368421052632,True,False,0.02631578947368496
+2019,Multiple districts,Bangladesh,8,5,62.5,https://www.who.int/emergencies/disease-outbreak-news,62.5,True,True,0.0
+2019,Kerala (Kochi),India,1,0,0.0,https://www.who.int/emergencies/disease-outbreak-news/item/2019-DON173,0.0,True,False,0.0
+2021,Kerala (Kozhikode),India,1,1,100.0,https://www.who.int/emergencies/disease-outbreak-news/item/2021-DON343,100.0,True,False,0.0
+2022,Multiple districts,Bangladesh,3,2,66.7,https://www.who.int/emergencies/disease-outbreak-news,66.66666666666666,True,True,0.03333333333334565
+2023,Multiple districts,Bangladesh,14,10,71.4,https://www.who.int/emergencies/disease-outbreak-news,71.42857142857143,True,True,0.028571428571424917
+2023,Kerala (Kozhikode),India,6,2,33.3,https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON487,33.33333333333333,True,False,0.03333333333333144
+2024,Dhaka Division,Bangladesh,5,5,100.0,https://www.who.int/emergencies/disease-outbreak-news,100.0,True,False,0.0
+2024,Kerala (Malappuram),India,2,2,100.0,https://www.who.int/emergencies/disease-outbreak-news,100.0,True,False,0.0
+2025,"Naogaon, Bhola, Rajbari, Nilphamari",Bangladesh,4,4,100.0,https://www.who.int/emergencies/disease-outbreak-news,100.0,True,False,0.0
+2025,"Kerala (Malappuram, Palakkad)",India,4,2,50.0,https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON553,50.0,True,False,0.0
+2026,"Naogaon, Rajshahi",Bangladesh,1,1,100.0,https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON595,100.0,True,False,0.0
+2026,"Barasat, West Bengal",India,2,1,50.0,https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON593,50.0,True,False,0.0
+2026,"Kozhikode, Kerala",India,1,0,0.0,https://www.who.int/emergencies/disease-outbreak-news,0.0,True,False,0.0

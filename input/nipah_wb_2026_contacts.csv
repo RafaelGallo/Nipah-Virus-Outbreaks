@@ -1,0 +1,193 @@
+Contact_ID,Linked_Case_ID,Contact_Type,Age,Gender,Date_Sample_Collected,Test_Result,District
+C-001,WB-2026-001,Colleague (Healthcare),37,Male,2026-01-16,Negative,North 24 Parganas
+C-002,WB-2026-002,Community,32,Female,2026-01-15,Negative,North 24 Parganas
+C-003,WB-2026-002,Family/Household,9,Female,2026-01-15,Negative,North 24 Parganas
+C-004,Both,Patient,19,Female,2026-01-16,Negative,North 24 Parganas
+C-005,Both,Colleague (Healthcare),48,Male,2026-01-20,Negative,North 24 Parganas
+C-006,Both,Colleague (Healthcare),3,Female,2026-01-19,Negative,North 24 Parganas
+C-007,WB-2026-002,Colleague (Healthcare),20,Female,2026-01-16,Negative,North 24 Parganas
+C-008,WB-2026-002,Community,24,Female,2026-01-18,Negative,North 24 Parganas
+C-009,WB-2026-002,Patient,54,Female,2026-01-18,Negative,North 24 Parganas
+C-010,WB-2026-002,Family/Household,33,Male,2026-01-15,Negative,North 24 Parganas
+C-011,WB-2026-002,Colleague (Healthcare),24,Female,2026-01-17,Negative,North 24 Parganas
+C-012,WB-2026-002,Community,75,Male,2026-01-19,Negative,North 24 Parganas
+C-013,WB-2026-002,Community,72,Male,2026-01-15,Negative,North 24 Parganas
+C-014,Both,Colleague (Healthcare),36,Male,2026-01-17,Negative,North 24 Parganas
+C-015,Both,Colleague (Healthcare),38,Male,2026-01-17,Negative,North 24 Parganas
+C-016,Both,Colleague (Healthcare),25,Male,2026-01-18,Negative,North 24 Parganas
+C-017,Both,Colleague (Healthcare),18,Male,2026-01-20,Negative,North 24 Parganas
+C-018,WB-2026-002,Patient,66,Female,2026-01-14,Negative,North 24 Parganas
+C-019,WB-2026-001,Patient,54,Male,2026-01-20,Negative,North 24 Parganas
+C-020,WB-2026-002,Colleague (Healthcare),35,Male,2026-01-14,Negative,North 24 Parganas
+C-021,WB-2026-001,Patient,61,Male,2026-01-16,Negative,North 24 Parganas
+C-022,Both,Colleague (Healthcare),41,Female,2026-01-18,Negative,North 24 Parganas
+C-023,WB-2026-002,Colleague (Healthcare),33,Female,2026-01-17,Negative,North 24 Parganas
+C-024,Both,Colleague (Healthcare),68,Male,2026-01-19,Negative,North 24 Parganas
+C-025,WB-2026-002,Patient,33,Female,2026-01-14,Negative,North 24 Parganas
+C-026,Both,Family/Household,14,Male,2026-01-20,Negative,North 24 Parganas
+C-027,WB-2026-001,Colleague (Healthcare),21,Male,2026-01-17,Negative,North 24 Parganas
+C-028,WB-2026-001,Patient,48,Female,2026-01-14,Negative,North 24 Parganas
+C-029,WB-2026-001,Patient,20,Male,2026-01-14,Negative,North 24 Parganas
+C-030,WB-2026-002,Colleague (Healthcare),8,Female,2026-01-14,Negative,North 24 Parganas
+C-031,WB-2026-001,Patient,7,Female,2026-01-19,Negative,North 24 Parganas
+C-032,WB-2026-002,Colleague (Healthcare),67,Male,2026-01-18,Negative,North 24 Parganas
+C-033,WB-2026-001,Colleague (Healthcare),17,Male,2026-01-19,Negative,North 24 Parganas
+C-034,WB-2026-001,Community,33,Female,2026-01-15,Negative,North 24 Parganas
+C-035,WB-2026-002,Community,48,Male,2026-01-17,Negative,North 24 Parganas
+C-036,WB-2026-002,Community,76,Male,2026-01-18,Negative,North 24 Parganas
+C-037,WB-2026-001,Colleague (Healthcare),59,Male,2026-01-18,Negative,North 24 Parganas
+C-038,WB-2026-002,Colleague (Healthcare),22,Female,2026-01-18,Negative,North 24 Parganas
+C-039,WB-2026-001,Patient,30,Female,2026-01-20,Negative,North 24 Parganas
+C-040,WB-2026-002,Patient,38,Male,2026-01-18,Negative,North 24 Parganas
+C-041,Both,Colleague (Healthcare),51,Female,2026-01-19,Negative,North 24 Parganas
+C-042,Both,Patient,54,Female,2026-01-18,Negative,North 24 Parganas
+C-043,Both,Colleague (Healthcare),8,Female,2026-01-16,Negative,North 24 Parganas
+C-044,Both,Community,27,Female,2026-01-17,Negative,North 24 Parganas
+C-045,Both,Colleague (Healthcare),27,Female,2026-01-18,Negative,North 24 Parganas
+C-046,WB-2026-001,Patient,21,Male,2026-01-17,Negative,North 24 Parganas
+C-047,Both,Colleague (Healthcare),30,Male,2026-01-16,Negative,North 24 Parganas
+C-048,Both,Patient,28,Male,2026-01-16,Negative,North 24 Parganas
+C-049,Both,Patient,64,Female,2026-01-17,Negative,North 24 Parganas
+C-050,Both,Colleague (Healthcare),69,Female,2026-01-14,Negative,North 24 Parganas
+C-051,WB-2026-002,Community,61,Male,2026-01-15,Negative,North 24 Parganas
+C-052,WB-2026-001,Family/Household,48,Female,2026-01-20,Negative,North 24 Parganas
+C-053,Both,Community,19,Male,2026-01-14,Negative,North 24 Parganas
+C-054,Both,Community,4,Male,2026-01-14,Negative,North 24 Parganas
+C-055,Both,Patient,35,Male,2026-01-19,Negative,North 24 Parganas
+C-056,WB-2026-001,Community,64,Female,2026-01-20,Negative,North 24 Parganas
+C-057,WB-2026-002,Colleague (Healthcare),49,Female,2026-01-20,Negative,North 24 Parganas
+C-058,WB-2026-001,Colleague (Healthcare),17,Male,2026-01-14,Negative,North 24 Parganas
+C-059,WB-2026-002,Colleague (Healthcare),44,Male,2026-01-18,Negative,North 24 Parganas
+C-060,Both,Colleague (Healthcare),30,Male,2026-01-19,Negative,North 24 Parganas
+C-061,Both,Colleague (Healthcare),46,Male,2026-01-19,Negative,North 24 Parganas
+C-062,WB-2026-001,Colleague (Healthcare),6,Female,2026-01-16,Negative,North 24 Parganas
+C-063,WB-2026-001,Community,37,Female,2026-01-20,Negative,North 24 Parganas
+C-064,WB-2026-002,Colleague (Healthcare),24,Male,2026-01-14,Negative,North 24 Parganas
+C-065,WB-2026-002,Colleague (Healthcare),46,Male,2026-01-16,Negative,North 24 Parganas
+C-066,WB-2026-001,Patient,53,Female,2026-01-17,Negative,North 24 Parganas
+C-067,WB-2026-002,Colleague (Healthcare),60,Female,2026-01-15,Negative,North 24 Parganas
+C-068,WB-2026-001,Community,63,Male,2026-01-19,Negative,North 24 Parganas
+C-069,WB-2026-002,Colleague (Healthcare),32,Male,2026-01-17,Negative,North 24 Parganas
+C-070,WB-2026-001,Community,33,Male,2026-01-17,Negative,North 24 Parganas
+C-071,WB-2026-001,Family/Household,67,Female,2026-01-18,Negative,North 24 Parganas
+C-072,WB-2026-001,Colleague (Healthcare),18,Female,2026-01-15,Negative,North 24 Parganas
+C-073,WB-2026-002,Colleague (Healthcare),25,Female,2026-01-17,Negative,North 24 Parganas
+C-074,WB-2026-002,Community,54,Male,2026-01-17,Negative,North 24 Parganas
+C-075,WB-2026-002,Family/Household,58,Male,2026-01-15,Negative,North 24 Parganas
+C-076,WB-2026-001,Family/Household,67,Female,2026-01-15,Negative,North 24 Parganas
+C-077,WB-2026-002,Family/Household,46,Female,2026-01-17,Negative,North 24 Parganas
+C-078,WB-2026-002,Colleague (Healthcare),24,Male,2026-01-15,Negative,North 24 Parganas
+C-079,WB-2026-001,Colleague (Healthcare),32,Female,2026-01-17,Negative,North 24 Parganas
+C-080,Both,Colleague (Healthcare),47,Female,2026-01-17,Negative,North 24 Parganas
+C-081,WB-2026-001,Community,23,Male,2026-01-18,Negative,North 24 Parganas
+C-082,WB-2026-002,Patient,66,Female,2026-01-14,Negative,North 24 Parganas
+C-083,WB-2026-001,Colleague (Healthcare),27,Male,2026-01-17,Negative,North 24 Parganas
+C-084,Both,Colleague (Healthcare),2,Male,2026-01-16,Negative,North 24 Parganas
+C-085,WB-2026-001,Colleague (Healthcare),17,Male,2026-01-19,Negative,North 24 Parganas
+C-086,WB-2026-002,Colleague (Healthcare),33,Male,2026-01-20,Negative,North 24 Parganas
+C-087,Both,Family/Household,9,Male,2026-01-14,Negative,North 24 Parganas
+C-088,WB-2026-002,Patient,43,Male,2026-01-14,Negative,North 24 Parganas
+C-089,Both,Community,48,Male,2026-01-14,Negative,North 24 Parganas
+C-090,Both,Patient,39,Female,2026-01-18,Negative,North 24 Parganas
+C-091,WB-2026-001,Colleague (Healthcare),42,Male,2026-01-17,Negative,North 24 Parganas
+C-092,WB-2026-001,Family/Household,26,Male,2026-01-18,Negative,North 24 Parganas
+C-093,WB-2026-002,Family/Household,50,Female,2026-01-17,Negative,North 24 Parganas
+C-094,WB-2026-001,Patient,25,Female,2026-01-18,Negative,North 24 Parganas
+C-095,WB-2026-001,Family/Household,24,Female,2026-01-18,Negative,North 24 Parganas
+C-096,Both,Patient,13,Male,2026-01-19,Negative,North 24 Parganas
+C-097,WB-2026-001,Patient,60,Female,2026-01-16,Negative,North 24 Parganas
+C-098,Both,Patient,7,Male,2026-01-18,Negative,North 24 Parganas
+C-099,Both,Colleague (Healthcare),57,Male,2026-01-19,Negative,North 24 Parganas
+C-100,Both,Colleague (Healthcare),36,Male,2026-01-15,Negative,North 24 Parganas
+C-101,WB-2026-002,Colleague (Healthcare),45,Male,2026-01-16,Negative,North 24 Parganas
+C-102,WB-2026-002,Patient,20,Female,2026-01-18,Negative,North 24 Parganas
+C-103,WB-2026-002,Colleague (Healthcare),65,Female,2026-01-20,Negative,North 24 Parganas
+C-104,Both,Patient,8,Male,2026-01-14,Negative,North 24 Parganas
+C-105,WB-2026-002,Community,16,Male,2026-01-15,Negative,North 24 Parganas
+C-106,WB-2026-002,Colleague (Healthcare),14,Male,2026-01-15,Negative,North 24 Parganas
+C-107,WB-2026-001,Patient,76,Female,2026-01-19,Negative,North 24 Parganas
+C-108,WB-2026-002,Family/Household,15,Male,2026-01-15,Negative,North 24 Parganas
+C-109,WB-2026-002,Colleague (Healthcare),66,Male,2026-01-16,Negative,North 24 Parganas
+C-110,Both,Colleague (Healthcare),32,Female,2026-01-18,Negative,North 24 Parganas
+C-111,Both,Colleague (Healthcare),63,Female,2026-01-18,Negative,North 24 Parganas
+C-112,Both,Colleague (Healthcare),51,Male,2026-01-20,Negative,North 24 Parganas
+C-113,Both,Community,25,Female,2026-01-14,Negative,North 24 Parganas
+C-114,Both,Community,58,Female,2026-01-19,Negative,North 24 Parganas
+C-115,Both,Patient,63,Male,2026-01-14,Negative,North 24 Parganas
+C-116,WB-2026-002,Community,62,Female,2026-01-15,Negative,North 24 Parganas
+C-117,Both,Community,22,Male,2026-01-20,Negative,North 24 Parganas
+C-118,Both,Colleague (Healthcare),58,Female,2026-01-14,Negative,North 24 Parganas
+C-119,WB-2026-001,Community,58,Male,2026-01-16,Negative,North 24 Parganas
+C-120,WB-2026-002,Patient,49,Male,2026-01-18,Negative,North 24 Parganas
+C-121,WB-2026-002,Community,52,Male,2026-01-15,Negative,North 24 Parganas
+C-122,WB-2026-002,Community,42,Female,2026-01-20,Negative,North 24 Parganas
+C-123,Both,Colleague (Healthcare),70,Male,2026-01-14,Negative,North 24 Parganas
+C-124,Both,Colleague (Healthcare),15,Female,2026-01-19,Negative,North 24 Parganas
+C-125,Both,Colleague (Healthcare),54,Male,2026-01-16,Negative,North 24 Parganas
+C-126,WB-2026-001,Patient,60,Male,2026-01-16,Negative,North 24 Parganas
+C-127,Both,Community,8,Female,2026-01-14,Negative,North 24 Parganas
+C-128,WB-2026-001,Community,53,Male,2026-01-18,Negative,North 24 Parganas
+C-129,WB-2026-002,Colleague (Healthcare),60,Male,2026-01-14,Negative,North 24 Parganas
+C-130,Both,Patient,5,Female,2026-01-15,Negative,North 24 Parganas
+C-131,WB-2026-001,Patient,68,Male,2026-01-14,Negative,North 24 Parganas
+C-132,WB-2026-001,Colleague (Healthcare),6,Male,2026-01-16,Negative,North 24 Parganas
+C-133,Both,Colleague (Healthcare),47,Male,2026-01-20,Negative,North 24 Parganas
+C-134,WB-2026-002,Colleague (Healthcare),55,Male,2026-01-14,Negative,North 24 Parganas
+C-135,WB-2026-002,Community,40,Female,2026-01-18,Negative,North 24 Parganas
+C-136,WB-2026-002,Colleague (Healthcare),52,Female,2026-01-20,Negative,North 24 Parganas
+C-137,WB-2026-001,Patient,16,Male,2026-01-19,Negative,North 24 Parganas
+C-138,WB-2026-001,Family/Household,13,Female,2026-01-17,Negative,North 24 Parganas
+C-139,WB-2026-001,Colleague (Healthcare),30,Male,2026-01-14,Negative,North 24 Parganas
+C-140,WB-2026-001,Community,19,Female,2026-01-18,Negative,North 24 Parganas
+C-141,WB-2026-002,Community,17,Male,2026-01-20,Negative,North 24 Parganas
+C-142,Both,Colleague (Healthcare),63,Male,2026-01-18,Negative,North 24 Parganas
+C-143,WB-2026-001,Patient,19,Male,2026-01-19,Negative,North 24 Parganas
+C-144,WB-2026-001,Colleague (Healthcare),58,Male,2026-01-16,Negative,North 24 Parganas
+C-145,WB-2026-002,Colleague (Healthcare),55,Male,2026-01-18,Negative,North 24 Parganas
+C-146,Both,Colleague (Healthcare),62,Male,2026-01-20,Negative,North 24 Parganas
+C-147,Both,Patient,23,Female,2026-01-18,Negative,North 24 Parganas
+C-148,WB-2026-002,Patient,9,Male,2026-01-18,Negative,North 24 Parganas
+C-149,WB-2026-002,Colleague (Healthcare),12,Female,2026-01-18,Negative,North 24 Parganas
+C-150,Both,Colleague (Healthcare),1,Male,2026-01-15,Negative,North 24 Parganas
+C-151,WB-2026-001,Community,58,Female,2026-01-15,Negative,North 24 Parganas
+C-152,Both,Colleague (Healthcare),1,Female,2026-01-16,Negative,North 24 Parganas
+C-153,WB-2026-002,Colleague (Healthcare),34,Female,2026-01-14,Negative,North 24 Parganas
+C-154,WB-2026-001,Patient,48,Male,2026-01-18,Negative,North 24 Parganas
+C-155,WB-2026-001,Community,1,Male,2026-01-19,Negative,North 24 Parganas
+C-156,WB-2026-002,Colleague (Healthcare),16,Female,2026-01-14,Negative,North 24 Parganas
+C-157,WB-2026-002,Patient,61,Male,2026-01-19,Negative,North 24 Parganas
+C-158,WB-2026-002,Family/Household,64,Female,2026-01-14,Negative,North 24 Parganas
+C-159,Both,Colleague (Healthcare),63,Male,2026-01-16,Negative,North 24 Parganas
+C-160,Both,Family/Household,69,Female,2026-01-18,Negative,North 24 Parganas
+C-161,WB-2026-001,Colleague (Healthcare),22,Female,2026-01-18,Negative,North 24 Parganas
+C-162,WB-2026-002,Patient,67,Male,2026-01-17,Negative,North 24 Parganas
+C-163,WB-2026-001,Patient,76,Female,2026-01-19,Negative,North 24 Parganas
+C-164,WB-2026-001,Patient,26,Male,2026-01-14,Negative,North 24 Parganas
+C-165,WB-2026-001,Colleague (Healthcare),16,Female,2026-01-14,Negative,North 24 Parganas
+C-166,WB-2026-001,Community,51,Female,2026-01-15,Negative,North 24 Parganas
+C-167,WB-2026-002,Colleague (Healthcare),57,Male,2026-01-17,Negative,North 24 Parganas
+C-168,WB-2026-001,Colleague (Healthcare),29,Male,2026-01-20,Negative,North 24 Parganas
+C-169,WB-2026-002,Colleague (Healthcare),78,Male,2026-01-20,Negative,North 24 Parganas
+C-170,WB-2026-002,Patient,69,Female,2026-01-15,Negative,North 24 Parganas
+C-171,Both,Patient,47,Male,2026-01-15,Negative,North 24 Parganas
+C-172,WB-2026-002,Colleague (Healthcare),62,Female,2026-01-15,Negative,North 24 Parganas
+C-173,Both,Patient,69,Female,2026-01-19,Negative,North 24 Parganas
+C-174,WB-2026-002,Colleague (Healthcare),76,Male,2026-01-19,Negative,North 24 Parganas
+C-175,WB-2026-002,Patient,16,Male,2026-01-16,Negative,North 24 Parganas
+C-176,WB-2026-002,Colleague (Healthcare),48,Female,2026-01-16,Negative,North 24 Parganas
+C-177,Both,Patient,39,Female,2026-01-15,Negative,North 24 Parganas
+C-178,Both,Colleague (Healthcare),33,Male,2026-01-17,Negative,North 24 Parganas
+C-179,WB-2026-001,Community,23,Male,2026-01-14,Negative,North 24 Parganas
+C-180,Both,Colleague (Healthcare),10,Male,2026-01-19,Negative,North 24 Parganas
+C-181,Both,Colleague (Healthcare),69,Male,2026-01-17,Negative,North 24 Parganas
+C-182,Both,Colleague (Healthcare),34,Male,2026-01-18,Negative,North 24 Parganas
+C-183,Both,Community,52,Female,2026-01-19,Negative,North 24 Parganas
+C-184,WB-2026-001,Community,10,Female,2026-01-19,Negative,North 24 Parganas
+C-185,Both,Colleague (Healthcare),19,Female,2026-01-16,Negative,North 24 Parganas
+C-186,WB-2026-002,Patient,58,Female,2026-01-14,Negative,North 24 Parganas
+C-187,WB-2026-002,Community,1,Male,2026-01-14,Negative,North 24 Parganas
+C-188,Both,Patient,69,Male,2026-01-20,Negative,North 24 Parganas
+C-189,Both,Patient,4,Male,2026-01-20,Negative,North 24 Parganas
+C-190,WB-2026-002,Colleague (Healthcare),16,Female,2026-01-20,Negative,North 24 Parganas
+C-191,WB-2026-002,Colleague (Healthcare),24,Female,2026-01-20,Negative,North 24 Parganas
+C-192,WB-2026-001,Community,2,Male,2026-01-18,Negative,North 24 Parganas
